@@ -1,4 +1,4 @@
-package com.codegym;
+package simplecaculator;
 
 public class SimpleCalculator {
     public static int add(int first, int second){

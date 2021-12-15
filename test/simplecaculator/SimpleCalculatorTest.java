@@ -1,4 +1,4 @@
-package com.codegym;
+package simplecaculator;
 
 import org.junit.jupiter.api.Test;
 //import org.testng.annotations.Test;
